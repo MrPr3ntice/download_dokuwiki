@@ -10,7 +10,7 @@ from pathlib import Path
 from datetime import datetime
 
 __author__ = "Karl-Philipp Kortmann"
-__license__ = "GPL"
+__license__ = "GPL3.0"
 __version__ = "1.0"
 __maintainer__ = "Karl-Philipp Kortmann"
 __email__ = "philipp.kortmann@imes.uni-hannover.de"
